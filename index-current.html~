@@ -1,0 +1,878 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>ICSOC2016, Banff, Alberta, Canada</title>
+
+    <!-- css -->
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bower_components/ionicons/css/ionicons.min.css">
+    <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body data-spy="scroll" data-target="#site-nav">
+    <nav id="site-nav" class="navbar navbar-fixed-top navbar-custom">
+        <div class="container">
+            <div class="navbar-header">
+
+                <!-- logo -->
+                <div class="site-branding">
+                    <a class="logo" href="index.html">
+                        
+                        <!-- logo image  -->
+                        <img src="assets/images/mylogo5.png" alt="Logo" height="42">
+                    </a>
+                </div>
+
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-items" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+            </div><!-- /.navbar-header -->
+
+            <div class="collapse navbar-collapse" id="navbar-items">
+                <ul class="nav navbar-nav navbar-right">
+
+                    <!-- navigation menu -->
+                    <li class="active"><a data-scroll href="#about">About</a></li>
+                    <li><a data-scroll href="#authors">Authors</a></li>
+					<li><a data-scroll href="#organization">Organization</a></li>
+					<li><a data-scroll href="#attendees">Attendees</a></li>					
+                    <li><a data-scroll href="#program">Program</a></li>
+					<li><a data-scroll href="#workshops">Workshops</a></li>
+					<li><a data-scroll href="#about">Past ICSOC</a></li> 					
+                    <li><a data-scroll href="#sponsors">Sponsors</a></li>                  
+                    <!-- <li><a data-scroll href="#">Sponsorship</a></li> -->
+                    <!-- <li><a data-scroll href="#faq">FAQ</a></li> -->
+                    <!-- <li><a data-scroll href="#photos">Photos</a></li> -->
+                
+                </ul>
+            </div>
+        </div><!-- /.container -->
+    </nav>
+
+    <header id="site-header" class="site-header valign-center"> 
+        <div class="container">
+			<div class="row" style="padding: 7%">
+				
+			</div>
+		
+            <div class="row">
+				<div class="col-sm-2" style = "background-color: DarkGray; padding: 4px; min-height: 300px; opacity: 0.85">
+					<div style = "background-color: White; min-height: inherit; text-align: Left; padding: 4px; padding-left: 8px">
+						<h4>Recent News</h4>
+						<ul class="list-arrow-right" style ="font-size: small">
+
+							<li><a data-scroll href="#authors">Call for Papers</a> is now available.</li>
+						
+						</ul>
+					</div>
+                </div><!-- /.col-sm-6 -->
+			
+                <div class="col-sm-8" style="padding: 3%">
+                    <div class="intro">
+						<img alt="" class="img-responsive center-block" src="assets/images/mylogo5.png" width="500px">
+					
+						<h2><b>10-13 October, 2016 / Banff, Alberta, Canada</b></h2>
+						
+						<p><b>14th International Conference on Service Oriented Computing</b></p>
+						
+						<a class="btn btn-white" data-scroll href="#registration" style="visibility: hidden">Register Now</a>
+					</div>
+                </div><!-- /.col-sm-8 -->
+
+                <div class="col-sm-2" style = "background-color: DarkGray; padding: 4px; opacity: 0.85">
+                        <div>
+                         <a class="twitter-timeline" data-chrome="nofooter noborders" data-tweet-limit="2" href="https://twitter.com/2016icsoc" data-widget-id="696490134712164352">Tweets by @2016icsoc</a>
+                          <script>
+                           !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+                           </script>                         
+                        </div>
+                </div><!-- /.col-sm-6 -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </header>
+	
+    <section id="about" class="section about">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8">
+
+                    <h3 class="section-title">About ICSOC 2016</h3>
+
+                    <p>ICSOC is the top international forum for academics, industry researchers, developers, and practitioners to report and share groundbreaking work in service-oriented computing. ICSOC fosters cross-community scientific excellence by gathering experts from various disciplines, such as business process management, distributed systems, computer networks, wireless and mobile computing, cloud computing, cyber physical systems, networking, scientific workflows, services science, data science, management science, and software engineering.</p>
+
+					<p>ICSOC 2016 will bring together scientists, engineers, and practitioners from multiple disciplines to focus on service-oriented, cloud-based, innovative enterprises ready for the 21st century. The conference will feature research and industry presentations, forward-looking keynote presentations, workshops, demonstrations, tutorials, and a PhD track.</p>
+					
+<!--                     <figure>
+                        <img alt="" class="img-responsive" src="assets/images/about-us.jpg">
+                    </figure> -->
+					
+					<h3 class="section-title">Important Dates</h3>
+
+					<ul class="list-arrow-right">
+                        <li>Abstract & Full Paper Due: May 15, 2016</li>
+						<li>Notification to authors: Jun 30, 2016</li>
+						<li>Camera-ready papers due: Jul 15, 2016</li>
+						<li>Author registration due: Jul 15, 2016</li>
+						<li>Early registration due: Aug 15, 2016</li>
+						<li>Conference dates: October 10-13, 2016</li>
+                    </ul>
+					
+                </div><!-- /.col-sm-8 -->
+
+                <div class="col-sm-4">
+					<h3>Past Conferences</h3>
+					
+					<ul class="list-arrow-right">
+						<li><a href="http://icsoc.org/" target="_blank">ICSOC 2015, Goa, India</a></li>
+						<li><a href="http://icsoc2014.servtech.info" target="_blank">ICSOC 2014, Paris, France</a></li>
+						<li><a href="http://icsoc2013.servtech.info" target="_blank">ICSOC 2013, Berlin, Germany</a></li>
+						<li><a href="http://icsoc2012.servtech.info" target="_blank">ICSOC 2012, Shanghai, China</a></li>
+						<li><a href="http://icsoc2011.servtech.info" target="_blank">ICSOC 2011, Paphos, Cyprus</a></li>
+						<li><a href="http://icsoc2010.servtech.info" target="_blank">ICSOC 2010, San Francisco, California</a></li>
+						<li><a href="http://icsoc2009.servtech.info" target="_blank">ICSOC 2009, Stockholm, Sweden</a></li>
+						<li><a href="http://icsoc2008.servtech.info" target="_blank">ICSOC 2008, Sydney, Australia</a></li>
+						<li><a href="http://icsoc2007.servtech.info" target="_blank">ICSOC 2007, Vienna, Austria</a></li>
+						<li><a href="http://icsoc2006.servtech.info" target="_blank">ICSOC 2006, Chicago, USA</a></li>
+						<li>ICSOC 2005, Amsterdam, Netherlands</li>
+						<li><a href="http://icsoc2004.servtech.info" target="_blank">ICSOC 2004, New York, USA</a></li>
+						<li><a href="http://icsoc2003.servtech.info" target="_blank">ICSOC 2003, Trento, Italy</a></li>
+                    </ul>
+                </div><!-- /.col-sm-6 -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </section>
+
+    <section id="facts" class="section bg-image-1 facts text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+
+                    <i class="ion-ios-calendar"></i>
+                    <h3>2016<br>October 10-13</h3>
+                
+                </div>
+                <div class="col-sm-6">
+
+                    <i class="ion-ios-location"></i>
+                    <h3>Alberta<br>Canada</h3>
+                
+                </div>
+
+            </div><!-- row -->
+        </div><!-- container -->
+    </section>
+
+	<section id="authors" class="section partner">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+
+                    <h3 class="section-title">Important Dates</h3>
+
+					<ul class="list-arrow-right">
+                        <li>Abstract & Full Paper Due: May 15, 2016</li>
+						<li>Notification to authors: Jun 30, 2016</li>
+						<li>Camera-ready papers due: Jul 15, 2016</li>
+						<li>Author registration due: Jul 15, 2016</li>
+						<li>Early registration due: Aug 15, 2016</li>
+						<li>Conference dates: October 10-13, 2016</li>
+                    </ul>
+					
+                </div><!-- /.col-sm-8 -->
+
+                <div class="col-sm-6">
+
+                    <h3 class="section-title multiple-title">Call For Papers</h3>
+
+                    <ul class="list-arrow-right">
+
+                        <li><a href="">Call For Research / Industry Papers</a></li>
+						
+                    
+                    </ul>
+
+                </div><!-- /.col-sm-6 -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </section>
+	
+	<section id="contribution" class="section bg-image-2 contribution">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3 class="text-uppercase mt0 font-400">Submission</h3>
+                    
+                    <p>Coming soon...</p>
+
+                    <!-- <a class="btn btn-white" href="#">Submit</a> -->
+                </div>
+            </div>
+        </div>
+    </section>
+	
+    <section id="organization" class="section speakers"> 
+        <div class="container">
+			<div class="container">
+				<h3 class="section-title">General Co-Chairs (gc@icsoc.org)</h3>
+				<div class="row">
+					<div class="col-md-4" style="text-align: center">
+						<a target="_blank" href="http://pernici.faculty.polimi.it"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/general/BP_op.png" width="100px"></a>
+						<h4>Barbara Pernici</h4>
+						Politecnico di Milano, Italy
+					</div>
+					
+					<div class="col-md-4" style="text-align: center">
+						<a href="http://www.csc.ncsu.edu/faculty/mpsingh/"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/general/MPS_OP.png" width="100px"></a>
+						<h4>Munindar P. Singh</h4>
+						NCSU, USA
+					</div>
+				</div>
+				<br/>
+			</div>
+			
+			<div class="container">
+				<h3 class="section-title">Program Co-Chairs (pc@icsoc.org)</h3>
+				<div class="row">
+					<div class="col-md-4" style="text-align: center">
+						<a href="https://cs.adelaide.edu.au/~qsheng/"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/program/ms_op.png" width="100px"></a>
+						<h4>Michael Sheng</h4>
+						University of Adelaide, Australia
+					</div>
+					
+					<div class="col-md-4" style="text-align: center">
+						<a href="https://webdocs.cs.ualberta.ca/~stroulia/index.old.html"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/program/ES_op.png" width="100px"></a>
+						<h4>Eleni Stroulia</h4>
+						University of Alberta, Canada
+					</div>
+					
+					<div class="col-md-4" style="text-align: center">
+						<a href="http://www-inf.int-evry.fr/~tata/"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/program/Samir tata.png" width="100px"></a>
+						<h4>Samir Tata</h4>
+						Institute Mines-Telecom, France
+					</div>
+				</div>
+				<br/>
+			</div>
+		
+			<div class="container">
+				<h3 class="section-title">Workshops Co-Chairs (wc@icsoc.org)</h3>
+				<div class="row">
+					<div class="col-md-4" style="text-align: center">
+						<a href="http://homepages.laas.fr/khalil/page/index.php"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/other/Khalil Drira.jpg" width="100px"></a>
+						<h4>Khalil Drira</h4>
+						Université de Toulouse, France
+					</div>
+					
+					<div class="col-md-4" style="text-align: center">
+						<a href=""><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/other/hongbin wang.png" width="100px"></a>
+						<h4>Hongbin Wang</h4>
+						Southeast University, China
+					</div>
+					
+					<div class="col-md-4" style="text-align: center">
+						<a href="http://www.ist.rit.edu/~qyu/"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/other/Qi Yu.jpg" width="100px"></a>
+						<h4>Qi Yu</h4>
+						Rochester Institute of Technology, USA
+					</div>
+				</div>
+				<br/>
+			</div>
+
+			<div class="container">
+				<h3 class="section-title">PhD Symposium Co-Chairs (phdc@icsoc.org) </h3>
+				<div class="row">
+					<div class="col-md-4" style="text-align: center">
+						<a href="http://comp.mq.edu.au/~yanwang/"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/other/Yan Wang.jpg" width="100px"></a>
+						<h4>Yan Wang</h4>
+						Macquarie University, Australia
+					</div>
+					
+					<div class="col-md-4" style="text-align: center">
+						<a href="http://users.encs.concordia.ca/~yuhong/"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/other/Yuhong Yan.jpg" width="100px"></a>
+						<h4>Yuhong Yan</h4>
+						Concordia University, Canada
+					</div>
+					
+					<div class="col-md-4" style="text-align: center">
+						<a href="http://www.loria.fr/~charoy/"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/other/F_C.jpg" width="100px"></a>
+						<h4>François Charoy</h4>
+						Université de Lorraine, France
+					</div>
+				</div>
+				<br/>
+			</div>
+			
+			<div class="container">
+				<h3 class="section-title">Demonstration Co-Chairs (dc@icsoc.org)</h3>
+				<div class="row">
+					<div class="col-md-4" style="text-align: center">
+						<a href="http://www.wu.ac.at/infobiz/team/mendling/"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/other/Jan Mendling.jpg" width="100px"></a>
+						<h4>Jan Mendling</h4>
+						Vienna University of Economics and Business, Austria
+					</div>
+					
+					<div class="col-md-4" style="text-align: center">
+						<a href="http://researcher.watson.ibm.com/researcher/view.php?person=us-mmohamed"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/other/MM.jpg" width="100px"></a>
+						<h4>Mohamed Mohamed</h4>
+						IBM Almaden, USA
+					</div>
+					
+					<div class="col-md-4" style="text-align: center">
+						<a href="http://homepage.hit.edu.cn/pages/rainy"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/other/zhongjie wang.png" width="100px"></a>
+						<h4>Zhongjie Wang</h4>
+						Harbin Institute of Technology, China
+					</div>
+				</div>
+				<br/>
+			</div>
+			
+			<div class="container">
+				<h3 class="section-title">Panel Co-Chairs (panelc@icsoc.org)</h3>
+				<div class="row">
+					<div class="col-md-4" style="text-align: center">
+						<a href="https://sites.google.com/site/boualembenatallahwebsite/"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/steeringc/BB_op2.png" width="100px"></a>
+						<h4>Boualem Benatallah </h4>
+						UNSW, Australia
+					</div>
+					
+					<div class="col-md-4" style="text-align: center">
+						<a href="http://www.cs.ucsb.edu/~su/"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/other/jianwen su.png" width="100px"></a>
+						<h4>Jianwen Su</h4>
+						UC Santa Barbara, USA
+					</div>
+					
+					<div class="col-md-4" style="text-align: center">
+						<a href="http://researcher.watson.ibm.com/researcher/view.php?person=us-hludwig"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/steeringc/HL_op2.png" width="100px"></a>
+						<h4>Heiko Ludwig</h4>
+						IBM, USA
+					</div>
+				</div>
+				<br/>
+			</div>
+			
+			<div class="container">
+				<h3 class="section-title">Publicity Co-Chairs (pubc@icsoc.org)</h3>
+				<div class="row">
+					<div class="col-md-3" style="text-align: center">
+						<a href="http://www.inf.ufrgs.br/~lucineia/"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/other/L_H_Thom.jpg" width="100px"></a>
+						<h4>Lucinéia  Heloisa Thom</h4>
+						Universidade Federal do Rio Grande do Sul, Brazil
+					</div>
+					
+					<div class="col-md-3" style="text-align: center">
+						<a href="http://www.naouelmoha.net"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/other/Naouel Moha.jpg" width="100px"></a>
+						<h4>Naouel Moha</h4>
+						University of Québec in Montréal, Canada
+					</div>
+					
+					<div class="col-md-3" style="text-align: center">
+						<a href="http://perso.isep.fr/msellami/"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/other/Mohamed Sellami.jpg" width="100px"></a>
+						<h4>Mohamed Sellami</h4>
+						ISEP, France
+					</div>
+					
+					<div class="col-md-3" style="text-align: center">
+						<a href="http://www.linayao.com/"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/other/Lina Yao.png" width="100px"></a>
+						<h4>Lina Yao</h4>
+						UNSW, Australia
+					</div>
+				</div>
+				<br/>
+			</div>
+			
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3" style="text-align: center">
+						<h3 class="section-title">Publication Chair</h3>
+						<a href=""><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/other/Sami Bhiri.png" width="100px"></a>
+						<h4>Sami Bhiri</h4>
+						University of Monastir, Tunisia
+					</div>
+					
+					<div class="col-md-3" style="text-align: center">
+						<h3 class="section-title">Finance Chair</h3>
+						<a href=""><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/steeringc/BK_op2.png" width="100px"></a>
+						<h4>Bernd J. Krämer</h4>
+						FernUniversität, Germany
+					</div>
+					
+					<div class="col-md-3" style="text-align: center">
+						<h3 class="section-title">Local Chairs</h3>
+						<div class="container">
+							<div class="row">
+								<div class="col-md-3" style="text-align: center">
+									<a href=""><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/unknown.png" width="100px"></a>
+								</div>
+								
+								<div class="col-md-3" style="text-align: center">
+									<a href=""><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/unknown.png" width="100px"></a>
+								</div>
+							</div>
+						</div>
+					</div>
+					
+				</div>
+				
+				<br/>
+			</div>
+			
+			<div class="container">
+				<h3 class="section-title">Web Co-Chairs</h3>
+				<div class="row">
+					<div class="col-md-3" style="text-align: center">
+						<a href="http://cs.adelaide.edu.au/~wei/"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/other/Wei Zhang.png" width="100px"></a>
+						<h4>Wei Zhang</h4>
+						University of Adelaide, Australia
+					</div>
+					
+					<div class="col-md-3" style="text-align: center">
+						<a href="http://cs.adelaide.edu.au/~nguyen/"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/other/nguyen.png" width="100px"></a>
+						<h4>Nguyen Khoi Tran</h4>
+						University of Adelaide, Australia
+					</div>
+				</div>
+				<br/>
+			</div>
+			
+			<div class="container">
+				<h3 class="section-title">Steering Committee</h3>
+				<div class="row">
+					<div class="col-md-3" style="text-align: center">
+						<a href="https://sites.google.com/site/boualembenatallahwebsite/"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/steeringc/BB_op2.png" width="100px"></a>
+						<h4>Boualem Benatallah </h4>
+						UNSW, Australia
+					</div>
+					
+					<div class="col-md-3" style="text-align: center">
+						<a href="https://sites.google.com/site/sphoebss/"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/steeringc/FC_op2.png" width="100px"></a>
+						<h4>Fabio Casati</h4>
+						University of Trento, Italy
+					</div>
+					
+					<div class="col-md-3" style="text-align: center">
+						<a href="http://kraemer.edu-sharing.net/portal/"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/steeringc/BK_op2.png" width="100px"></a>
+						<h4>Bernd J. Krämer</h4>
+						FernUniversität, Germany
+					</div>
+					
+					<div class="col-md-3" style="text-align: center">
+						<a href="https://vsis-www.informatik.uni-hamburg.de/vsis/members/look/4"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/steeringc/WL_op.png" width="100px"></a>
+						<h4>Winfried Lamersdorf</h4>
+						University of Hamburg, Germany
+					</div>
+					
+				</div>
+				
+				<div class="row">
+					<div class="col-md-3" style="text-align: center">
+						<a href="http://researcher.watson.ibm.com/researcher/view.php?person=us-hludwig"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/steeringc/HL_op2.png" width="100px"></a>
+						<h4>Heiko Ludwig</h4>
+						IBM, USA
+					</div>
+				
+					<div class="col-md-3" style="text-align: center">
+						<a href="http://infolab.uvt.nl/staff/mikep/"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/steeringc/MP_op2.png" width="100px"></a>
+						<h4>Mike Papazoglou</h4>
+						Tilburg University, The Netherlands
+					</div>
+				
+					<div class="col-md-3" style="text-align: center">
+						<a href="http://comp.mq.edu.au/~jian/"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/steeringc/JY_op2.png" width="100px"></a>
+						<h4>Jian Yang</h4>
+						Macquarie University, Australia
+					</div>
+					
+					<div class="col-md-3" style="text-align: center">
+						<a href="http://www.cs.fudan.edu.cn/en/?page_id=2303"><img alt="" class="img-responsive center-block" src="assets/images/chairphoto/steeringc/LZ_op2.png" width="100px"></a>
+						<h4>Liang Zhang</h4>
+						Fudan University, China
+					</div>
+				</div>
+				<br/>
+			</div>
+			
+        </div>
+    </section>
+	
+	<section id="attendees" class="section about">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+
+                    <h3 class="section-title">Venue</h3>
+					
+					<!-- Keep the number of items in the list to a limit, jump to another HTML page when it is full -->
+					<ul class="list-arrow-right">
+
+                        <li>Coming soon...</li>
+                    
+                    </ul>
+					
+                </div><!-- /.col-sm-8 -->
+            </div><!-- /.row -->
+			
+			<br/>
+			
+			<div class="row">
+                <div class="col-sm-12">
+
+                    <h3 class="section-title">Getting There</h3>
+					
+					<!-- Keep the number of items in the list to a limit, jump to another HTML page when it is full -->
+					<ul class="list-arrow-right">
+
+                        <li>Coming soon...</li>
+                    
+                    </ul>
+					
+                </div><!-- /.col-sm-8 -->
+            </div><!-- /.row -->
+			
+        </div><!-- /.container -->
+    </section>
+	
+    <section id="registration" class="section partner">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3 class="section-title">Registration</h3>
+                </div>
+            </div>
+			
+			<div class="row">
+                <div class="col-sm-12">			
+					<!-- Keep the number of items in the list to a limit, jump to another HTML page when it is full -->
+					<ul class="list-arrow-right">
+
+                        <li>Coming soon...</li>
+                    
+                    </ul>
+					
+                </div><!-- /.col-sm-8 -->
+            </div><!-- /.row -->
+        </div>
+    </section>
+
+    <section id="program" class="section schedule">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3 class="section-title">Program</h3>
+                </div>
+            </div>
+			
+			<div class="row">
+                <div class="col-sm-12">			
+					<!-- Keep the number of items in the list to a limit, jump to another HTML page when it is full -->
+					<ul class="list-arrow-right">
+
+                        <li>Coming soon...</li>
+                    
+                    </ul>
+					
+                </div><!-- /.col-sm-8 -->
+            </div><!-- /.row -->
+			
+            <!-- <div class="row">
+                <div class="col-md-4 col-sm-6">
+                    <div class="schedule-box">
+                        <div class="time">
+                            <time datetime="09:00">09:00 am</time> - <time datetime="22:00">10:00 am</time>
+                        </div>
+                        <h3>Welcome and intro</h3>
+                        <p>Mustafizur Khan, SD Asia</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="schedule-box">
+                        <div class="time">
+                            <time datetime="10:00">10:00 am</time> - <time datetime="22:00">10:00 am</time>
+                        </div>
+                        <h3>Tips and share</h3>
+                        <p>Mustafizur Khan, SD Asia</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="schedule-box">
+                        <div class="time">
+                            <time datetime="10:00">10:00 am</time> - <time datetime="22:00">10:00 am</time>
+                        </div>
+                        <h3>View from the top</h3>
+                        <p>Mustafizur Khan, SD Asia</p>
+                    </div>
+                </div>
+            </div> -->
+    </section>
+	
+	<section id="workshops" class="section schedule">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3 class="section-title">Workshops</h3>
+                </div>
+            </div>
+			
+			<div class="row">
+                <div class="col-sm-12">			
+					<!-- Keep the number of items in the list to a limit, jump to another HTML page when it is full -->
+					<ul class="list-arrow-right">
+
+                        <li>Coming soon...</li>
+                    
+                    </ul>
+					
+                </div><!-- /.col-sm-8 -->
+            </div><!-- /.row -->
+			
+            <!-- <div class="row">
+                <div class="col-md-4 col-sm-6">
+                    <div class="schedule-box">
+                        <div class="time">
+                            <time datetime="09:00">09:00 am</time> - <time datetime="22:00">10:00 am</time>
+                        </div>
+                        <h3>Welcome and intro</h3>
+                        <p>Mustafizur Khan, SD Asia</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="schedule-box">
+                        <div class="time">
+                            <time datetime="10:00">10:00 am</time> - <time datetime="22:00">10:00 am</time>
+                        </div>
+                        <h3>Tips and share</h3>
+                        <p>Mustafizur Khan, SD Asia</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="schedule-box">
+                        <div class="time">
+                            <time datetime="10:00">10:00 am</time> - <time datetime="22:00">10:00 am</time>
+                        </div>
+                        <h3>View from the top</h3>
+                        <p>Mustafizur Khan, SD Asia</p>
+                    </div>
+                </div>
+            </div> -->
+    </section>
+
+    <section id="sponsors" class="section partner">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3 class="section-title">Sponsors</h3>
+                </div>
+            </div>
+			
+			<div class="row">
+                <div class="col-md-3">
+                    <a href="http://servtech.info/portal/"><img alt="" class="img-responsive center-block" src="assets/images/partner/Servtech.png" width="300px"></a>
+                </div>
+            </div>
+			
+            <!-- <div class="row">
+                <div class="col-sm-3">
+                    <a class="partner-box partner-box-1"></a>
+                </div>
+                <div class="col-sm-3">
+                    <a class="partner-box partner-box-2"></a>
+                </div>
+                <div class="col-sm-3">
+                    <a class="partner-box partner-box-3"></a>
+                </div>
+                <div class="col-sm-3">
+                    <a class="partner-box partner-box-4"></a>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-3">
+                    <a class="partner-box partner-box-5"></a>
+                </div>
+                <div class="col-sm-3">
+                    <a class="partner-box partner-box-6"></a>
+                </div>
+                <div class="col-sm-3">
+                    <a class="partner-box partner-box-7"></a>
+                </div>
+                <div class="col-sm-3">
+                    <a class="partner-box partner-box-8"></a>
+                </div>
+            </div>   --> 
+    </section>
+
+    <!-- <section id="faq" class="section faq">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3 class="section-title">Event FAQs</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                        
+                        <div class="panel panel-default">
+                            <div class="panel-heading" role="tab" id="headingOne">
+                                <h4 class="panel-title">
+                                    <a class="faq-toggle collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne"> What is the price of the ticket ?</a>
+                                </h4>
+                            </div>
+
+                            <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+                                <div class="panel-body">
+                                    <h3>Hello</h3>
+                                    <p>Lorem Ipsum</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="panel panel-default">
+                            <div class="panel-heading" role="tab" id="headingTwo">
+                                <h4 class="panel-title">
+                                    <a class="faq-toggle collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"> What is included in my ticket ?</a>
+                                </h4>
+                            </div>
+
+                            <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+                                <div class="panel-body">Hello</div>
+                            </div>
+                        </div>
+  
+                        <div class="panel panel-default">
+                            <div class="panel-heading" role="tab" id="headingThree">
+                                <h4 class="panel-title">
+                                    <a class="faq-toggle collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree"> Office address ?</a>
+                                </h4>
+                            </div>
+
+                            <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+                                <div class="panel-body">Hello</div>
+                            </div>
+                        </div>
+
+                        <div class="panel panel-default">
+                            <div class="panel-heading" role="tab" id="headingFour">
+                                <h4 class="panel-title">
+                                    <a class="faq-toggle collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour"> How should I dress ?</a>
+                                </h4>
+                            </div>
+
+                            <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
+                                <div class="panel-body">Hello</div>
+                            </div>
+                        </div>
+
+                        <div class="panel panel-default">
+                            <div class="panel-heading" role="tab" id="headingFive">
+                                <h4 class="panel-title">
+                                    <a class="faq-toggle collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive"> I have specific questions that are not addressed here. Who can help me ?</a>
+                                </h4>
+                            </div>
+
+                            <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+                                <div class="panel-body">Hello</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </section> -->
+
+    <!-- <section id="photos" class="section photos">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3 class="section-title">Photos</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <ul class="grid">
+                        
+                        <li class="grid-item grid-item-sm-6">
+                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos-1.jpg">
+                        </li>
+
+                        <li class="grid-item grid-item-sm-3">
+                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos-2.jpg">
+                        </li>
+
+                        <li class="grid-item grid-item-sm-3">
+                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos-3.jpg">
+                        </li>
+                    
+                        <li class="grid-item grid-item-sm-3">
+                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos-5.jpg">
+                        </li>
+
+                        <li class="grid-item grid-item-sm-3">
+                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos-6.jpg">
+                        </li>
+
+                        <li class="grid-item grid-item-sm-3">
+                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos-7.jpg">
+                        </li>
+
+                        <li class="grid-item grid-item-sm-3">
+                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos-8.jpg">
+                        </li>
+
+                        <li class="grid-item grid-item-sm-3">
+                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos-2.jpg">
+                        </li>
+
+                        <li class="grid-item grid-item-sm-3">
+                            <img alt="" class="img-responsive center-block" src="assets/images/photos/photos-3.jpg">
+                        </li>
+                    </ul>
+                </div>
+            </div>            
+        </div>
+    </section> -->
+
+    <!-- <section id="location" class="section location">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-3">
+                    <h3 class="section-title">Event Location</h3>
+                    <address>
+                        <p>Eardenia<br> The Grand Hall<br> House # 08, Road #52, Street<br> Phone: +1159t3764<br> Email: example@mail.com</p>
+                    </address>
+                </div>
+                <div class="col-sm-9">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96706.50013548559!2d-78.9870674333782!3d40.76030630398601!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54eab584e432360b%3A0x1c3bb99243deb742!2sUnited+States!5e0!3m2!1sen!2sbd!4v1436299406518" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </section> -->
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="site-info">© Copyright 2016. All rights reserved. ICSOC. Web theme powered by <a href="http://technextit.com">Technext Limited</a>.</p>
+                    <ul class="social-block">
+                        <li><a href=""><i class="ion-social-twitter"></i></a></li>
+                        <li><a href=""><i class="ion-social-facebook"></i></a></li>
+                        <li><a href=""><i class="ion-social-linkedin-outline"></i></a></li>
+                        <li><a href=""><i class="ion-social-googleplus"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- script -->
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="bower_components/smooth-scroll/dist/js/smooth-scroll.min.js"></script>
+    <script src="assets/js/main.js"></script>
+</body>
+</html>
