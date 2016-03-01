@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>ICSOC2016, Banff, Alberta, Canada</title>
+
+    <!-- css -->
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bower_components/ionicons/css/ionicons.min.css">
+    <link rel="stylesheet" href="assets/css/main.css">
+</head>
+
+<body data-spy="scroll" data-target="#site-nav">
+    <nav id="site-nav" class="navbar navbar-fixed-top navbar-custom">
+        <div class="container">
+            <div class="navbar-header">
+
+                <!-- logo -->
+                <div class="site-branding">
+                    <a class="logo" href="index.html">
+                        
+                        <!-- logo image  -->
+                        <img src="assets/images/mylogo5.png" alt="Logo" height="42">
+                    </a>
+                </div>
+
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-items" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+            </div><!-- /.navbar-header -->
+
+            <div class="collapse navbar-collapse" id="navbar-items">
+                <ul class="nav navbar-nav navbar-right">
+                	<!-- navigation menu -->
+               		<li class="active"><a href="index.html#about">About</a></li>
+                	<li><a data-scroll href="#cfp-research">CFPs</a></li>
+			<li><a href="index.html#organization">Organization</a></li>
+			<li><a href="index.html#attendees">Participation</a></li>					
+                	<li><a href="index.html#program">Program</a></li>
+			<!-- <li><a data-scroll href="#workshops">Workshops</a></li> -->
+			<li><a href="index.html#about">Past Events</a></li> 					
+                	<li><a href="index.html#partner">Sponsors</a></li>   
+                </ul>
+            </div>
+        </div><!-- /.container -->
+    </nav>
+
+	<header id="site-header" class="site-header-minimum valign-center" style="visibility: hidden; height=1px">
+    </header>
+
+    <section id="cfp-research" class="section about" style="height: 100%"> <!--Recent news-->
+    	<div style="padding-left: 20%; padding-right: 20%">
+			<h1>Recent news</h1>
+				<h3>1/3/2016</h3>
+				<a href="">Call for Workshops</a> and <a href="">Call for Demonstrations</a> are available.</li>
+				<hr/>
+				
+				<h3>1/3/2016</h3>
+				The 25th International World Wide Web Conference (<a href="http://www2016.ca/">WWW2016</a>) will be held in Montreal, Canada from April 11 to 15, 2016.</li>
+				<hr/>
+				
+				<h3>1/3/2016</h3>
+				ICSOC2016 conference is held with the support of <a href="http://www.ifip.org/">International Federation for Information Processing (IFIP).</a></li>
+				<hr/>
+				
+				<h3>17/2/2016</h3>
+				<a href="CFP_research.html">Call for Papers</a> is now available.</li>
+
+		</div>
+    </section>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="site-info">© Copyright 2016. All rights reserved. ICSOC. Web theme powered by <a href="http://technextit.com">Technext Limited</a>.</p>
+                    <ul class="social-block">
+                        <li><a target="_blank" href="https://twitter.com/2016icsoc"><i class="ion-social-twitter"></i></a></li>
+                        <li><a href=""><i class="ion-social-facebook"></i></a></li>
+                        <!--<li><a href=""><i class="ion-social-linkedin-outline"></i></a></li>-->
+                        <!--<li><a href=""><i class="ion-social-googleplus"></i></a></li>-->
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- script -->
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="bower_components/smooth-scroll/dist/js/smooth-scroll.min.js"></script>
+    <script src="assets/js/main.js"></script>
+</body>
+</html>
