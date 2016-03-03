@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>ICSOC2016, Banff, Alberta, Canada</title>
+
+    <!-- css -->
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bower_components/ionicons/css/ionicons.min.css">
+    <link rel="stylesheet" href="assets/css/main.css">
+</head>
+
+<body data-spy="scroll" data-target="#site-nav">
+    <nav id="site-nav" class="navbar navbar-fixed-top navbar-custom">
+        <div class="container">
+            <div class="navbar-header">
+
+                <!-- logo -->
+                <div class="site-branding">
+                    <a class="logo" href="index.html">
+                        
+                        <!-- logo image  -->
+                        <img src="assets/images/mylogo5.png" alt="Logo" height="42">
+                    </a>
+                </div>
+
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-items" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+            </div><!-- /.navbar-header -->
+
+            <div class="collapse navbar-collapse" id="navbar-items">
+                <ul class="nav navbar-nav navbar-right">
+                	<!-- navigation menu -->
+               		<li class="active"><a href="index.html#about">About</a></li>
+                	<li><a data-scroll href="index.html#authors">CFPs</a></li>
+			<li><a href="index.html#organization">Organization</a></li>
+			<li><a href="index.html#attendees">Participation</a></li>					
+                	<li><a href="index.html#program">Program</a></li>
+			<!-- <li><a data-scroll href="#workshops">Workshops</a></li> -->
+			<li><a href="index.html#about">Past Events</a></li> 					
+                	<li><a href="index.html#partner">Sponsors</a></li>   
+                </ul>
+            </div>
+        </div><!-- /.container -->
+    </nav>
+
+	<header id="site-header" class="site-header-minimum valign-center" style="visibility: hidden; height=1px">
+    </header>
+
+    <section id="cfp-research" class="section about"> <!--About & Past Event-->
+    	<div style="padding-left: 20%; padding-right: 20%">
+			<h1>Call for Demonstrations</h1>
+			<!--h2>ICSOC 2016 - The 14th International Conference on Service-Oriented Computing</h2-->
+		
+			<p>The ICSOC Demonstration Track offers an exciting and highly interactive way to show research prototypes/work in service oriented computing (SOC) and related areas. Proposals for research prototype demos should focus on developments and innovation in the areas of service engineering, operations, cloud and big data services, implementation of services as well as development and adoption of services in specific organizations, businesses and the society at large.</p>
+		
+			<h3>Topics of Interest</h3>
+			<p>Areas of interest for demonstrations include all topics of interest for the ICSOC conference.. Specific topics of interest include but are not limited to:</p>
+		
+			<ul class="list-arrow-right" >
+				<li> Modeling Business Services and Service Value Networks </li>
+                <li> Flexible Service Composition and Mashups </li>
+                <li> Business Process Interaction and Choreographies </li>
+                <li> Business Intelligence and Analytics for Services </li>
+                <li> Services on the Cloud (XAAS)</li>
+                <li> Service Integration and Orchestration</li>
+                <li> Service Engineering Tools and Methodology</li>
+                <li> Service Design Methods and Tools</li>
+                <li> Service Change Management Systems</li>
+                <li> Service Operations and Management</li>
+                <li> Service Applications and Implementations</li>
+                <li> Service-oriented Architecture Showcases</li>
+                <li> Quality of Service Design and Management</li>
+                <li> Service Security, Privacy, and Trust</li>
+                <li> Service Vocabularies and Ontology</li>
+                <li> Cloud Computing Services and Engineering</li>
+                <li> Grid and Scientific Computing Services</li>
+                <li> Pervasive and Mobile Services</li>
+                <li> Embedded and Real-time Services</li>
+                <li> Testbeds for Service Technologies and Concepts</li>
+                <li> Social Networks and Services</li>
+                <li> Internet of Things Services</li>
+                <li> Data-aware Services including Artifact-Centric Systems</li>
+                <li> Services for Big Data</li>
+                <li> Human-mediated Services</li>
+                <li> RESTful Web Services</li>
+                <li> Open API</li>
+                <li> Service Adaptation and Customization</li>
+                <li> Service Governance</li>
+                <li> Formal Methods for Web Services</li>
+                <li> Validation and Verification of Services</li>
+                <li> Elastic Service Computing</li>
+                <li> RFID, sensor data and services related to the Internet of Things</li>
+                <li> Services related linked open data</li>
+			</ul>
+            
+            <h3>Demo Submission</h3>
+			
+			<p>Submissions have to include description of the contribution including title, system overview, summary of the significance and novel characteristics as well as functions/features to be demonstrated. Descriptions are to be written in English and must not exceed four (4) pages following LNCS format (see http://www.springer.de/comp/lncs/authors.html for details). Additionally, authors may provide a link to a short online video or screen cast not exceeding 6 minutes in length (hard limit) of their demonstration. The video is recommended, not mandatory. The video must be playable using a wide variety of media players. Submissions have to be submitted electronically, in PDF format, via the Demonstration Track in the conference submission system: 6. All demo submissions will be selected based on several criteria including the novelty, the maturity of the effort as well as the research contributions of the demonstration system. We are particularly interested in submissions that deal with new types of applications in SOC and relevant areas, which help motivate conference attendees to pursue similar efforts. Accepted papers will be included in the ICSOC 2016 conference proceedings to be published by Springer.</p>
+			
+			<p>At least one author is expected to register for and showcase the demonstration at the ICSOC 2016 conference in Banff, Alberta, Canada.</p>
+	
+			<h3>Important Dates</h3>
+			
+			<ul class="list-arrow-right">
+				<li>Demo submission: May 20, 2016</li>
+				<li>Author notification: June 17, 2016</li>
+				<li>Camera-ready papers due: June 30, 2016</li>      
+			</ul>
+		
+			<h3>Demonstration Program Chair</h3>
+			
+			<ul class="list-arrow-right">
+				<li>Prof. Dr. Jan Mendling, Vienna University of Economics and Business, Austria</li>
+				<li>Dr. Mohamed Mohamed, IBM Research, USA</li>
+                <li>Dr. Zhongjie Wang Harbin Institute of Technology, China</li>
+			</ul>
+			
+			<h3>Demonstration Committee</h3>
+			
+			<ul class="list-arrow-right">
+				<li>Adnene Guabtni, National Information Communications Technology Research Centre (NICTA), Australia</li>
+				<li>Armin Haller, CSIRO, Australia</li>
+				<li>Athman Bouguettaya, RMIT University, Australia</li>
+                <li>Bradley Simmons, York university, Canada</li>
+                <li>Dickson Chiu, The University of Hong Kong, Hong Kon</li>
+                <li>Djamal Benslimane, University of Lyon, France</li>
+                <li>Florian Daniel, University of Trento, Italy</li>
+                <li>Helen Paik, University of New South Wales, Australia</li>
+                <li>Ivona Brandic, Vienna University of Technology, Austria</li>
+                <li>Jianwei Yin, Zhejiang University</li>
+                <li>Marios Fokaefs, York University, Canada</li>
+                <li>Mark Shtern, York University, Canada</li>
+                <li>MIKE SMIT, Dalhousie University, Canada</li>
+                <li>Mohammad Sadoghi, IBM Research, USA</li>
+                <li>Philipp Leitner, University of Zurich, Switzerland</li>
+                <li>Philippe Lalanda, Joseph Fourier University, France </li>
+                <li>Pierluigi Plebani, Politecnico di Milano, Italy</li>
+                <li>Raman Kazhamiakin, SOA Research Unit, Fondazione Bruno Kessler, Trento, Italy</li>
+                <li>Sonia Ben Mokhtar, LIRIS, CNRS, France</li>
+                <li>Uwe Zdun, University of Vienna, Austria </li>
+                <li>Wei Tan, IBM Research, USA </li>
+                <li>Xumin Liu, Rochester Institute of Technology</li>
+                <li>Zhiyong Feng, Tianjin University</li>
+			</ul>
+		</div>
+    </section>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="site-info">© Copyright 2016. All rights reserved. ICSOC. Web theme powered by <a href="http://technextit.com">Technext Limited</a>.</p>
+                    <ul class="social-block">
+                        <li><a target="_blank" href="https://twitter.com/2016icsoc"><i class="ion-social-twitter"></i></a></li>
+                        <li><a href=""><i class="ion-social-facebook"></i></a></li>
+                        <!--<li><a href=""><i class="ion-social-linkedin-outline"></i></a></li>-->
+                        <!--<li><a href=""><i class="ion-social-googleplus"></i></a></li>-->
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- script -->
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="bower_components/smooth-scroll/dist/js/smooth-scroll.min.js"></script>
+    <script src="assets/js/main.js"></script>
+</body>
+</html>
