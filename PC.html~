@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>ICSOC2016, Banff, Alberta, Canada</title>
+
+    <!-- css -->
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bower_components/ionicons/css/ionicons.min.css">
+    <link rel="stylesheet" href="assets/css/main.css">
+</head>
+
+<body data-spy="scroll" data-target="#site-nav">
+    <nav id="site-nav" class="navbar navbar-fixed-top navbar-custom">
+        <div class="container">
+            <div class="navbar-header">
+
+                <!-- logo -->
+                <div class="site-branding">
+                    <a class="logo" href="index.html">
+                        
+                        <!-- logo image  -->
+                        <img src="assets/images/mylogo5.png" alt="Logo" height="42">
+                    </a>
+                </div>
+
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-items" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+            </div><!-- /.navbar-header -->
+
+            <div class="collapse navbar-collapse" id="navbar-items">
+                <ul class="nav navbar-nav navbar-right">
+                	<!-- navigation menu -->
+               		<li class="active"><a href="index.html#about">About</a></li>
+                	<li><a data-scroll href="#cfp-research">CFPs</a></li>
+			<li><a href="index.html#organization">Organization</a></li>
+			<li><a href="index.html#attendees">Participation</a></li>					
+                	<li><a href="index.html#program">Program</a></li>
+			<!-- <li><a data-scroll href="#workshops">Workshops</a></li> -->
+			<li><a href="index.html#about">Past Events</a></li> 					
+                	<li><a href="index.html#partner">Sponsors</a></li>   
+                </ul>
+            </div>
+        </div><!-- /.container -->
+    </nav>
+
+	<header id="site-header" class="site-header-minimum valign-center" style="visibility: hidden; height=1px">
+    </header>
+
+    <section id="pc" class="section about" style="height: 100%"> <!--Senior PC and PC-->
+    	<div style="padding-left: 20%; padding-right: 20%">
+			<h1>ICSOC 2016 Programm Committee</h1>
+			<h2>Senior PC Members</h2>
+			<ul class="list-arrow-right">
+				<li>Boualem Benatallah, UNSW, Australia	
+				<li>Athman Bouguettaya, RMIT, Australia	
+				<li>Fabio Casati, University of Trento, Italy	
+				<li>Flavio De Paoli, Universita' di Milano Bicocca, Italy	
+				<li>Marlon Dumas, University of Tartu, Estonia	
+				<li>Schahram Dustdar, TU Wien, Austria	
+				<li>Xavier Franch, Universitat Politcnica de Catalunya, Spain	
+				<li>Aditya Ghose, University of Wollongong, Australia	
+				<li>Mohand Said Hacid, University of Lyon, France	
+				<li>Grace Lewis, Carmegie Mellon Software Engineering Institute, USA	
+				<li>Heiko Ludwig, IBM Research, USA
+				<li>Michael	Maximilien, IBM Research, USA	
+				<li>Cesare Pautasso, University of Lugano, Switzerland
+				<li>Barbara	Pernici, Politecnico di Milano, Italy	
+				<li>Gustavo	Rossi, UNLP, Argentina	
+				<li>Michael Sheng, University of Adelaide, Australia	
+				<li>Jianwen	Su, University of California at Santa Barbara, USA	
+				<li>Stefan Tai, TU Berlin, Germany	
+				<li>Zahir Tari, RMIT University, Australia	
+				<li>Mathias Weske, HPI/University of Potsdam, Germany	
+				<li>Jian Yang, Macquarie University, Australia	
+				<li>Liang ZHANG, Fudan University, China
+			</ul>
+			
+			<h2>PC Members</h2>
+			<ul class="list-arrow-right">
+				<li>Rama Akkiraju, IBM, United States		
+				<li>Vasilios Andrikopoulos, University of Stuttgart, Germany		
+				<li>Alvaro Arenas, Instituto de Empresa Business School, Spain		
+				<li>Ebrahim	Bagheri, Ryerson University, Canada		
+				<li>Luciano	Baresi, Politecnico di Milano, Italy		
+				<li>Alistair Patrick Barros, Queensland University of Technology, Australia		
+				<li>N Md Jubair Basha, Muffakham Jah College of Engineering & Technology, India		
+				<li>Nejib Ben Hadj-Alouane,	National School of Engineers of Tunis (ENIT), Tunisia		
+				<li>Moez Ben Haj Hmida, National Engineering School of Tunis (ENIT), Tunisia		
+				<li>Salima	Benbernou, Université Paris Descartes, France		
+				<li>Reda Bendraou, LIP6 Paris Universitas, France		
+				<li>Djamal Benslimane, University of Lyon, France		
+				<li>Sami Bhiri, Telecom SudParis, France		
+				<li>Domenico Bianculli, University of Luxembourg, Luxembourg		
+				<li>Frederique Biennier, INSA of Lyon, France		
+				<li>Walter	Binder, University of Lugano, Switzerland		
+				<li>M. Brian Blake, University of Miami, United States		
+				<li>Omar Boucelma, Aix-Marseille University, France		
+				<li>Christoph Bussler, Oracle Corporation, United States		
+				<li>Cristina Cabanillas, Vienna University of Economics and Business, Austria		
+				<li>Manuel Carro, UPM and IMDEA Software Institute, Spain		
+				<li>Wing-Kwong Chan, City University of Hong Kong, Hong Kong		
+				<li>Francois Charoy, University of Lorraine, France		
+				<li>Faouzi Ben Charrada, University of Tunis El Manar, Tunisia		
+				<li>Sanjay Chaudhary, Ahmedabad University, India		
+				<li>Liang Chen, RMIT, Australia		
+<li>Shiping	Chen, CSIRO, Australia		
+<li>Lawrence Chung,	The University of Texas at Dallas, United States		
+<li>Edward	Curry, Insight Centre, Ireland		
+<li>Hoa Khanh Dam, University of Wollongong, Australia		
+<li>Florian	Daniel,	University of Trento, Italy		
+<li>Bruno Defude, Telecom Sud Paris, France		
+<li>Shuiguang Deng, Zhejiang University, China		
+<li>Nirmit Desai, IBM T J Watson Research Center, United States		
+<li>Hai Dong, RMIT, Australia		
+<li>Khalil Drira, LAAS Toulouse, France		
+<li>Yucong	Duan, Hainan University, China		
+<li>Joyce El Haddad, University of Paris Dauphine, France		
+<li>Abdelkarim Erradi, Qatar University, Qatar		
+<li>Rik Eshuis, Eindhoven University of Technology, The Netherlands		
+<li>Onyeka Ezenwoye, Georgia Regents University, United States		
+<li>Noura Faci, Université Lyon 1, CNRS, France		
+<li>Marcelo	Fantinato, University of São Paulo, Brazil		
+<li>Marie-Christine	Fauvet,	Univ. Grenoble Alpes, France		
+<li>Joao E.	Ferreira, University of Sao Paulo, Brazil		
+<li>Marios-Eleftherios Fokaefs, York University, Canada		
+<li>Xiang Fu, Hofstra, United States		
+<li>Walid Gaaloul, Telecom SudParis, France		
+<li>N. D. Gangadhar, MS Ramaiah University of Applied Sciences, India		
+<li>G.R. Gangadharan, IDRBT, Hyderabad, India		
+<li>Paolo Giorgini,	University of Trento, Italy		
+<li>Claude Godart,	University of Lorraine, France		
+<li>Mohamed	Graiet,	ISIMM, Tunisia		
+<li>Sven Graupner,	HP Labs, Palo Alto, USA		
+<li>Daniela	Grigori, University Paris-Dauphine, France		
+<li>Armin Haller, Australian National University, Australia		
+<li>Jun Han, Swinburne University of Technology, Australia		
+<li>Peng Han, Chongqing Academy of Science and Technology, China
+<li>Chihab Hanachi,	IRIT Laboratory - Toulouse University, France		
+<li>Bernhard Holtkamp, Fraunhofer ISST, Germany		
+<li>Richard	Hull, IBM Research, United States		
+<li>Fuyuki Ishikawa, National Institute of Informatics, Japan		
+<li>Hai Jin, HUST, China		
+<li>Ejub Kajan, State University of Novi Pazar, Serbia		
+<li>Dimka Karastoyanova, University of Stuttgart, Germany		
+<li>Raman Kazhamiakin, Fondazione Bruno Kessler, Italy		
+<li>Hamamache Kheddouci, University of Lyon, France		
+<li>Kais Klai, University of Paris 13, France		
+<li>Ryan Ko, University of Waikato,	New Zealand		
+<li>Gerald Kotonya,	Lancaster University, United Kingdom		
+<li>Peep Kungas, University of Tartu, Estonia		
+<li>Philippe Lalanda, Joseph Fourier University, France		
+<li>Philipp	Leitner, University of Zurich, Switzerland		
+<li>Henrik Leopold, VU University Amsterdam, Netherlands		
+<li>Huma Mehadisa Lepakshi,	Infosys, India		
+<li>Frank Leymann, University of Stuttgart, Germany		
+<li>Xitong Li, HEC	Burkina Faso, France		
+<li>Ying Li, Zhejiang University, China		
+<li>Marin Litoiu, York University, Canada		
+<li>Xuanzhe	Liu, Peking University, China		
+<li>Xumin Liu, Rochester Institute of Technology, United States		
+<li>Alessio	Lomuscio, Imperial College London, United Kingdom		
+<li>Jiangang Ma, Victoria University, Australia		
+<li>Zakaria	Maamar, Zayed University, United Arab Emirates		
+<li>Javam Machado, UFC, Brazil		
+<li>Zaki Malik, Wayne State University, United States		
+<li>Ioana Manolescu, INRIA, France		
+<li>Maude Manouvrier, University of Paris Dauphine, France		
+<li>Jordi Marco, Universitat Politècnica de Catalunya, Spain		
+<li>Patrick	Martin, Queens University, Canada		
+<li>Massimo	Mecella, SAPIENZA Università di Roma, Italy		
+<li>Brahim Medjahed, University of Michigan - Dearborn, United States		
+<li>Lars Moench, University of Hagen, Germany		
+<li>Mohamed	Mohamed, IBM Almaden Research Center, United States		
+<li>Hamid Reza Motahari-Nezhad, IBM Research, United States		
+<li>Michael	Mrissa, University of Lyon, France		
+<li>Nanjangud C. Narendra, Cognizant Technology Solutions, India		
+<li>Surya Nepal, CSIRO, Australia		
+<li>Anne Ngu, Texas State Uni, United States		
+<li>Talal H. Noor, Taibah University, Saudi Arabia		
+<li>Alex Norta, Tallinn University of Technology, Estonia		
+<li>Srinivasa Padmanabhuni, Infy, India		
+<li>Helen Paik, UNSW, Australia		
+<li>Olivier	Perrin,	Lorraine University, France		
+<li>Marco Pistore, Fondazione Bruno Kessler, Italy		
+<li>Pierluigi Plebani, Politecnico di Milano, Italy		
+<li>Pascal Poizat, Université Paris Ouest and LIP6, France		
+<li>Artem	Polyvyanyy, Queensland University of Technology, Australia		
+<li>Karthikeyan Ponnalagu, IBM Research, India		
+<li>Mu Qiao, IBM Almaden Research Center, United States		
+<li>Xiaoqiang Qiao, Huawei Technologies, China		
+<li>Lakshmish Ramaswamy, University of Georgia, United States		
+<li>Manfred	Reichert, University of Ulm, Germany		
+<li>Wolfgang Reisig, Humboldt-Universität zu Berlin, Germany		
+<li>Stefanie Rinderle-Ma, University of Vienna, Austria		
+<li>Colette	Roland, Universite Paris1 Panthéon Sorbonne, France		
+<li>Antonio	Ruiz-Cortés, University of Sevilla, Spain		
+<li>Sherif Saakr, University of New South Wales, Australia		
+<li>Mohammad Sadoghi, IBM T.J. Watson Research Center, United States		
+<li>Diptikalyan Saha, IBM Research, India		
+<li>Iman Saleh, University of Miami, United States		
+<li>Aviv Segev, KAIST, South Korea		
+<li>Lionel Seinturier, University of Lille, France		
+<li>Mohamed Sellami, ISEP, France		
+<li>Jun Shen, University of Wollongong, Australia		
+<li>Ignacio	Silva-Lepe, IBM, United States		
+<li>Sergey Smirnov, SAP, Germany		
+<li>George Spanoudakis, City University London, United Kingdom		
+<li>Yehia TAHER, University of Versailles-St-Quentin-en-Yvelines, France		
+<li>Wei Tan, IBM T. J. Watson Research Center, United States		
+<li>Guiling	Wang, North China University of Technology, China		
+<li>Jianwu	Wang, University of Maryland, Baltimore County,	United States		
+<li>Xianzhi	Wang, The University of Adelaide, Australia		
+<li>Yan Wang, Macquarie University, Australia		
+<li>Zhongjie Wang, Harbin Institute of Technology, China		
+<li>Ingo Weber, NICTA, Australia		
+<li>Yi Wei,	Microsoft, United States		
+<li>Matthias Weidlich, Imperial College London, United Kingdom		
+<li>Lai Xu,	Bournemouth University, United Kingdom		
+<li>Hamdi Yahyaoui, Kuwait University, Kuwait		
+<li>Sami Yangui, Concordia University, Canada		
+<li>Lina Yao, UNSW, Australia		
+<li>Sira Yongchareon, Unitec Insitute of Technology, New Zealand		
+<li>Jian Yu, Auckland University of Technology, New Zealand		
+<li>Qi Yu, Rochester Institute of Technology, United States		
+<li>Uwe Zdun, University of Vienna, Austria		
+<li>Weiliang Zhao, Macquarie University, Australia		
+<li>Yan Zheng, Aalto University/Xidian University, Finland		
+<li>Zibin Zheng, Sun Yat-sen University, China		
+<li>Zhangbing Zhou, China University of Geosciences (Beijing), China		
+<li>Floriano Zini, Free University of Bozen-Bolzano, Italy		
+<li>Andrea	Zisman, City University London, United Kingdom		
+<li>Ying Zou, Queens University, Canada
+</ul>
+
+			<h2>Demonstrations PC Members</h2>
+			<ul class="list-arrow-right">
+				<li>Adnene Guabtni, National Information Communications Technology Research Centre (NICTA), Australia</li>
+				<li>Armin Haller, CSIRO, Australia</li>
+				<li>Athman Bouguettaya, RMIT University, Australia</li>
+                <li>Bradley Simmons, York university, Canada</li>
+                <li>Dickson Chiu, The University of Hong Kong, Hong Kon</li>
+                <li>Djamal Benslimane, University of Lyon, France</li>
+                <li>Florian Daniel, University of Trento, Italy</li>
+                <li>Helen Paik, University of New South Wales, Australia</li>
+                <li>Ivona Brandic, Vienna University of Technology, Austria</li>
+                <li>Jianwei Yin, Zhejiang University</li>
+                <li>Marios Fokaefs, York University, Canada</li>
+                <li>Mark Shtern, York University, Canada</li>
+                <li>MIKE SMIT, Dalhousie University, Canada</li>
+                <li>Mohammad Sadoghi, IBM Research, USA</li>
+                <li>Philipp Leitner, University of Zurich, Switzerland</li>
+                <li>Philippe Lalanda, Joseph Fourier University, France </li>
+                <li>Pierluigi Plebani, Politecnico di Milano, Italy</li>
+                <li>Raman Kazhamiakin, SOA Research Unit, Fondazione Bruno Kessler, Trento, Italy</li>
+                <li>Sonia Ben Mokhtar, LIRIS, CNRS, France</li>
+                <li>Uwe Zdun, University of Vienna, Austria </li>
+                <li>Wei Tan, IBM Research, USA </li>
+                <li>Xumin Liu, Rochester Institute of Technology</li>
+                <li>Zhiyong Feng, Tianjin University</li>
+			</ul>
+		</div>
+    </section>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="site-info">© Copyright 2016. All rights reserved. ICSOC. Web theme powered by <a href="http://technextit.com">Technext Limited</a>.</p>
+                    <ul class="social-block">
+                        <li><a target="_blank" href="https://twitter.com/2016icsoc"><i class="ion-social-twitter"></i></a></li>
+                        <li><a href=""><i class="ion-social-facebook"></i></a></li>
+                        <!--<li><a href=""><i class="ion-social-linkedin-outline"></i></a></li>-->
+                        <!--<li><a href=""><i class="ion-social-googleplus"></i></a></li>-->
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- script -->
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="bower_components/smooth-scroll/dist/js/smooth-scroll.min.js"></script>
+    <script src="assets/js/main.js"></script>
+</body>
+</html>
