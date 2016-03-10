@@ -57,7 +57,7 @@
 
     <section id="pc" class="section about" style="height: 100%"> <!--Senior PC and PC-->
     	<div style="padding-left: 20%; padding-right: 20%">
-			<h1>ICSOC 2016 Programm Committee</h1>
+			<h1>ICSOC 2016 Program Committee</h1>
 			<h2>Senior PC Members</h2>
 			<ul class="list-arrow-right">
 				<li>Boualem Benatallah, UNSW, Australia	
@@ -255,7 +255,7 @@
                 <li>Jianwei Yin, Zhejiang University</li>
                 <li>Marios Fokaefs, York University, Canada</li>
                 <li>Mark Shtern, York University, Canada</li>
-                <li>MIKE SMIT, Dalhousie University, Canada</li>
+                <li>Mike Smit, Dalhousie University, Canada</li>
                 <li>Mohammad Sadoghi, IBM Research, USA</li>
                 <li>Philipp Leitner, University of Zurich, Switzerland</li>
                 <li>Philippe Lalanda, Joseph Fourier University, France </li>
