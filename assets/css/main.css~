@@ -329,7 +329,6 @@ ul li {
   min-height: 5vh;
   position: relative;
   text-align: center;
-  background: url(../images/backgrounds/header.jpg) no-repeat center center/cover;
 }
 .site-header::before {
   content: "";
@@ -607,3 +606,58 @@ ul li {
 .site-footer .social-block li a:hover, .site-footer .social-block li a:focus {
   opacity: 0.8;
 }
+
+
+/* ===== homepage carousel START===== */
+
+/* layout */
+.carousel-caption { text-align: left; margin-top: 0px; bottom: 0; top: 0; left: 0%; right: 0%; padding: 0px;}
+.carousel-caption img { float: left; height: 100%; width:auto; margin-right: 20px; }
+@media (max-width: 720px) {
+	.carousel-caption { margin-top: 0px; left: 0%; }
+	.carousel-caption img { float: left; height: 100%; width: auto; margin-right: 10px; }
+}
+
+/* font size */
+.carousel-caption .item-title { font-style: italic; font-size: 1.1em; color: #ddd; margin-top: 20px; margin-botton:0px; }
+.carousel-caption h4 { font-size: 2em; font-weight: bold; margin-top: 15px; margin-bottom: 0px; }
+.carousel-caption p {font-size: 1.2em; margin-top:5px;}
+
+
+/*Remove carousel control background gradient, which sometimes shows a vertical line, dependent on the screen resolution*/
+.carousel-control.right {
+  background-image: none;
+}
+.carousel-control.left {
+  background-image: none;
+}
+
+/* reduce arrow sizes */
+.carousel-control { width: 20px; }
+.carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right {
+  font-size:15px;
+}
+
+/* reduce indicator size, remove border */
+.carousel-indicators { bottom: 0; margin-bottom: 0; }
+
+.carousel-indicators li {
+  border: none;
+  background-color: rgba(255, 255, 255, 0.2);
+  width:8px;
+  height:8px;
+}
+
+.carousel-indicators li.active {
+  width:8px;
+  height:8px;
+}
+
+/* remove text shadow */
+.carousel-caption {
+  text-shadow: none;
+  color: #fff;
+}
+
+
+/* ===== homepage carousel END ===== */

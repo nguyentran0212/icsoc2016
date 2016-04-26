@@ -193,7 +193,7 @@
   </tr>
   <tr>
     <td class="tg-yw4l">June 30, 2016</td>
-    <td class="tg-yw4l">Main conference notification</td>
+    <td class="tg-yw4l">Main conference notifications</td>
   </tr>
   <tr>
     <td class="tg-yw4l">July 15, 2016</td>
@@ -614,13 +614,64 @@
 				</div>
 			</div>
 			
-			<div class="row">
-				<div class="col-sm-12">			
-					<!-- Keep the number of items in the list to a limit, jump to another HTML page when it is full -->
-					<ul class="list-arrow-right">
-						<li>Coming soon...</li>
-					</ul>
-				</div><!-- /.col-sm-12 -->
+			<div class="row">				
+				<div class="col-sm-6">
+					<div id="myCarousel" class="carousel slide" data-ride="carousel">
+					  <!-- Indicators -->
+					  <ol class="carousel-indicators">
+						 <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+						 <li data-target="#myCarousel" data-slide-to="1"></li>
+						 <li data-target="#myCarousel" data-slide-to="2"></li>
+					  </ol>
+
+					  <!-- Wrapper for slides -->
+					  <div class="carousel-inner" role="listbox" style="width:height:250px">
+						 <div class="item active">
+							<a href="keynotes.html#keynote_bertino">
+							<img src="assets/images/backgrounds/carousel-background.jpg" style="width:800px;height:250px">
+								<div class="carousel-caption">
+									<img src="assets/images/speakers/bertino1.jpg" />
+									<p class="item-title">Keynote Speaker</p>
+									<h4>Elisa Bertino</h4>
+									<p>Purdue University</p>
+									<!--<span class="label label-default">Tuesday, 2/23, at 9 AM</span>-->
+								</div>
+							</a>
+						 </div>
+
+						 <div class="item">
+							<a href="keynotes.html#keynote_valerie">
+							<img src="assets/images/backgrounds/carousel-background.jpg" style="width:800px;height:250px">
+								<div class="carousel-caption">
+									<img src="assets/images/speakers/valerie.jpg" />
+									<p class="item-title">Keynote Speaker</p>
+									<h4>Valérie Issarny</h4>
+									<p>Inria</p>
+									<span class="label label-default">Tuesday, 2/23, at 9 AM</span>
+								</div>
+							</a>
+						 </div>
+
+						 <div class="item">
+							<a href="keynotes.html#keynote_valerie">
+							<img src="assets/images/backgrounds/carousel-background.jpg" style="width:800px;height:250px">
+								<div class="carousel-caption">
+									<img src="assets/images/speakers/valerie.jpg" />
+									<p class="item-title">Keynote Speaker</p>
+									<h4>Valérie Issarny</h4>
+									<p>Inria</p>
+									<span class="label label-default">Tuesday, 2/23, at 9 AM</span>
+								</div>
+							</a>
+						 </div>
+					  </div>
+
+
+					</div>
+				</div><!-- /.col-sm-8 -->
+				
+				<div class="col-sm-6">
+				</div>
 			</div><!-- /.row -->
 		<div><!--container-->
 	</section>
