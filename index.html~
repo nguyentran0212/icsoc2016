@@ -81,12 +81,16 @@
 				<div style = "background-color: White; min-height: inherit; text-align: Left; padding: 4px; padding-left: 8px; height: 100%; overflow-y: auto;">
 					<h4>Recent News</h4>
 					<ul class="list-arrow-right" style ="font-size: small">
-						<li>March 15, 2016 - <a href="CFP_PhD.html">Call for PhD Symposium</a> is available</li>
-						<li>March 01, 2016 - Call for <a href="http://www.summersoc.eu/christos-nikolaou-phd-award/">Christos Nikolaou Memorial Ph.D. Award</a> is available</li>
-						<li>March 01, 2016 - <a href="CFP_workshops.html">Call for Workshops</a> and <a href="CFP_demos.html">Call for Demonstrations</a> are available.</li>
-						<li>March 01, 2016 - The 25th International World Wide Web Conference (<a href="http://www2016.ca/">WWW2016</a>) will be held in Montreal, Canada from April 11 to 15, 2016.</li>
-						<li>March 01, 2016 - ICSOC2016 conference is held with the support of <a href="http://www.ifip.org/">International Federation for Information Processing (IFIP).</a></li>
-						<li>February 02, 2016 - <a href="CFP_research.html">Call for Papers</a> is now available.</li>
+						<li>Apr 07, 2016 - <a target="_blank" href="https://www.cs.purdue.edu/people/bertino">Elisa Bertino</a>, <a target="_blank" href="http://researcher.watson.ibm.com/researcher/view.php?person=us-hull">Richard Hull</a>, 
+							and <a target="_blank" href="https://www.rocq.inria.fr/arles/index.php/members/94-valerie-issarny">Valerie Issarny</a> joined ICSOC 2016 as Keynote speakers. </li>
+						<li>Apr 07, 2016 - High quality papers from ICSOC 2016 will be invited to submit an extended version for consideration at Special Issues on <a target="_blank" href="http://toit.acm.org/">ACM TOIT</a> and 
+							<a target="_blank" href="http://www.journals.elsevier.com/future-generation-computer-systems/">Elsevier FGCS</a>. </li>
+						<li>Mar 15, 2016 - <a target="_blank" href="CFP_PhD.html">Call for PhD Symposium</a> is available</li>
+						<li>Mar 01, 2016 - Call for <a target="_blank" href="http://www.summersoc.eu/christos-nikolaou-phd-award/">Christos Nikolaou Memorial Ph.D. Award</a> is available</li>
+						<li>Mar 01, 2016 - <a target="_blank" href="CFP_workshops.html">Call for Workshops</a> and <a href="CFP_demos.html">Call for Demonstrations</a> are available.</li>
+						<li>Mar 01, 2016 - The 25th International World Wide Web Conference (<a href="http://www2016.ca/">WWW2016</a>) will be held in Montreal, Canada from April 11 to 15, 2016.</li>
+						<li>Mar 01, 2016 - ICSOC2016 conference is held with the support of <a href="http://www.ifip.org/">International Federation for Information Processing (IFIP).</a></li>
+						<li>Feb 02, 2016 - <a target="_blank" href="CFP_research.html">Call for Papers</a> is now available.</li>
 					</ul>
 				</div>
                 	</div><!-- /.col-sm-6 -->
@@ -100,6 +104,9 @@
 	</div> <!-- close container -->
     </header>
 
+
+
+<!--================================================================================================-->
     <section id="about" class="section about"> <!--About & Past Event-->
         <div class="container">
             <div class="row">
@@ -107,7 +114,7 @@
 			<h3 class="section-title">About ICSOC 2016</h3>
 			<p>ICSOC (<a target="_blank" href="https://en.wikipedia.org/wiki/International_Conference_on_Service_Oriented_Computing">Wikipedia page</a>) is the top international forum for academics, industry researchers, developers, and practitioners to report and share groundbreaking work in service-oriented computing. ICSOC fosters cross-community scientific excellence by gathering experts from various disciplines, such as business process management, distributed systems, computer networks, wireless and mobile computing, cloud computing, cyber physical systems, networking, scientific workflows, services science, data science, management science, and software engineering.</p>
 			<p>ICSOC 2016 will bring together scientists, engineers, and practitioners from multiple disciplines to focus on service-oriented, cloud-based, innovative enterprises ready for the 21st century. The conference will feature research and industry presentations, forward-looking keynote presentations, workshops, demonstrations, tutorials, and a PhD track.</p>
-
+			<p>The conference flyer is <a href="ICSOC2016-Flyer.pdf">available</a>.
 
                 </div><!-- /.col-sm-8 -->
 
@@ -133,6 +140,8 @@
         </div><!-- /.container -->
     </section>
 
+
+<!--================================================================================================-->
     <section id="facts" class="section bg-image-1 facts text-center"> <!--Facts-->
         <div class="container">
             <div class="row">
@@ -149,7 +158,9 @@
         </div><!-- container -->
     </section>
 
-    <section id="authors" class="section partner"> <!--CFPs section-->
+
+<!--================================================================================================-->
+    <section id="authors" class="section about"> <!--CFPs section-->
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
@@ -229,18 +240,179 @@
         </div><!-- /.container -->
     </section>
 
+
+<!--================================================================================================-->
     <section id="contribution" class="section bg-image-2 contribution"> <!--submission section-->
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h3 class="text-uppercase mt0 font-400">Submission</h3>
-                    <p>Coming soon...</p>
+                    <h3 class="text-uppercase mt0 font-400"></h3>
+                    <p></p>
                     <!-- <a class="btn btn-white" href="#">Submit</a> -->
                 </div>
             </div>
         </div>
     </section>
 
+
+<!--================================================================================================-->
+	<section id="program" class="section schedule"> <!--Program section-->
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<h3 class="section-title">Program</h3>
+				</div>
+			</div>
+			
+			<div class="row">				
+				<div class="col-sm-6">
+					<div id="myCarousel" class="carousel slide" data-ride="carousel">
+					  <!-- Indicators -->
+					  <ol class="carousel-indicators">
+						 <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+						 <li data-target="#myCarousel" data-slide-to="1"></li>
+						 <li data-target="#myCarousel" data-slide-to="2"></li>
+					  </ol>
+
+					  <!-- Wrapper for slides -->
+					  <div class="carousel-inner" role="listbox" style="width:height:250px">
+						 <div class="item active">
+							<a href="keynotes.html#keynote_bertino">
+							<img src="assets/images/backgrounds/carousel-background.jpg" style="width:800px;height:250px">
+								<div class="carousel-caption">
+									<img src="assets/images/speakers/bertino1.jpg" />
+									<p class="item-title">Keynote Speaker</p>
+									<h4>Elisa Bertino</h4>
+									<p>Purdue University</p>
+									<!--<span class="label label-default">Tuesday, 2/23, at 9 AM</span>-->
+								</div>
+							</a>
+						 </div>
+
+						 <div class="item">
+							<a href="keynotes.html#keynote_valerie">
+							<img src="assets/images/backgrounds/carousel-background.jpg" style="width:800px;height:250px">
+								<div class="carousel-caption">
+									<img src="assets/images/speakers/valerie.jpg" />
+									<p class="item-title">Keynote Speaker</p>
+									<h4>Valérie Issarny</h4>
+									<p>Inria</p>
+									<!--<span class="label label-default">Tuesday, 2/23, at 9 AM</span>-->
+								</div>
+							</a>
+						 </div>
+
+						 <div class="item">
+							<a href="keynotes.html#keynote_valerie">
+							<img src="assets/images/backgrounds/carousel-background.jpg" style="width:800px;height:250px">
+								<div class="carousel-caption">
+									<img src="assets/images/speakers/richard.jpg" />
+									<p class="item-title">Keynote Speaker</p>
+									<h4>Richard Hull</h4>
+									<p>IBM Research</p>
+									<!--<span class="label label-default">Tuesday, 2/23, at 9 AM</span>-->
+								</div>
+							</a>
+						 </div>
+					  </div>
+
+
+					</div>
+				</div><!-- /.col-sm-8 -->
+				
+				<div class="col-sm-6">
+				</div>
+			</div><!-- /.row -->
+		<div><!--container-->
+	</section>
+
+
+
+<!--================================================================================================-->
+	<section id="attendees" class="section partner"> <!--Participation section-->
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+				<h3 class="section-title">Venue</h3>	
+				<!-- Keep the number of items in the list to a limit, jump to another HTML page when it is full -->
+				<ul class="list-arrow-right">
+					<!--li>Coming soon...</li-->
+                   ICSOC 2016 will be held at <a title="banff_center" href="https://www.banffcentre.ca" target="_blank"><b>The Banff Centre</b></a> <a href="https://www.google.com.au/maps/place/Banff+Centre/@51.1703848,-115.5619928,17z/data=!3m1!4b1!4m2!3m1!1s0x5370ca370d34ba11:0xbc711e516f9dc32d">[map]</a>, 
+via 107 Tunnel Mountain Drive, Banff, Alberta, Canada. The Banff Centre is located on Sleeping Buffalo Mountain (Tunnel Mountain) in the heart of the Banff National Park, a UNESCO world heritage site. 	
+            </ul>
+				</div><!-- /.col-sm-12 -->
+			</div><!-- /.row -->
+            </br>
+            <div class="row">
+				<div class="col-sm-12">
+				<h3 class="section-title">Travel</h3>
+				<!-- Keep the number of items in the list to a limit, jump to another HTML page when it is full -->
+				<ul class="list-arrow-right">
+					<b>From Airport:</b> Banff Airporter is the official airport shuttle provider of The Banff Centre and the best way to get to and from the Calgary International Airport. 
+                    Banff Airporter offers 9 departures daily between the Calgary International Airport and The Banff Centre. Sit back, relax, and enjoy the scenery as you travel to Banff. 
+                    <br/>
+                    You can also book by calling toll free: 1 (888) 449-2901 or (403) 762-3330, or for questions and more information, email: <a href="mailto:info@banffairporter.com" target="_blank" rel="nofollow">info@banffairporter.com</a>.
+                    <br/><br/>
+                    Early morning Calgary Airport departure? Late night arrival? Another option is to travel to and from The Banff Centre in comfort and style with Banff Airporter's sedan service, Banff Sedan. 
+                    On your arrival, your driver will meet you at your flight gate, ready to transfer you directly to Banff, regardless of flight time. To book, call Banff Sedan at 1.403.762.3330 or email <a href="mailto:charters@banffairporter.com" target="_blank" rel="nofollow">charters@banffairporter.com</a>.
+				    <br/><br/>
+                    If you choose to travel by private vehicle, please refer to <a title="map" href="https://www.banffcentre.ca/maps-and-directions" target="_blank">[this website]</a> for detailed guide.
+                    <br/><br/>
+                    <b>Travel Around Banff:</b> 
+                    The Town of Banff <a title="banff" href="https://www.banff.ca/" target="_blank">[website]</a> itself and the Baff National Park <a title="park" href="http://www.pc.gc.ca/eng/pn-np/ab/banff/index.aspx" target="_blank">[website]</a> are good places to explore. 
+                    The Banff Lake Louise <a title="lake" href="http://www.banfflakelouise.com/" target="_blank">[website]</a> is also a travel choice. 
+                               
+                </ul>
+				</div><!-- /.col-sm-12 -->
+			</div><!-- /.row -->
+			
+			<br/>
+			
+			<div class="row">
+				<div class="col-sm-12">
+				<h3 class="section-title">Visa</h3>
+				<!-- Keep the number of items in the list to a limit, jump to another HTML page when it is full -->
+				<ul class="list-arrow-right">
+					The visa application information can be found at the website of Government of Canada <a title="banff_center" href="http://www.cic.gc.ca/english/visit/index.asp" target="_blank">[here]</a>. Attendees please be sure to have valid visa to enter Canada. Please plan accordingly.
+				</ul>
+				</div><!-- /.col-sm-12 -->
+			</div><!-- /.row -->
+            
+            <br/>
+            
+            <div class="row">
+				<div class="col-sm-12">
+				<h3 class="section-title">Hotel</h3>
+				<!-- Keep the number of items in the list to a limit, jump to another HTML page when it is full -->
+				<ul class="list-arrow-right">
+					To reserve a room or inquire about your existing room booking at the Banff Centre, please contact:
+                    <br>
+                    Phone: (403) 762-6308
+                    <br>
+                    Toll Free: 1 (800) 884-7574
+                    <br>
+                    Fax: (403) 762-7502
+                    <br>
+                    Email: reservations@banffcentre.ca
+                    <br>
+                   Hours of Operation:<br>
+                     &nbsp;&nbsp; Monday - Friday 8 a.m. - 5 p.m <br>
+                     &nbsp;&nbsp; Saturday & Sunday CLOSED <br>
+                     &nbsp;&nbsp; Statutory Holidays 8:30 a.m. - 5 p.m. <br>
+                     &nbsp;&nbsp; Closed: Christmas Day, Boxing Day and New Year's Day. <br>
+
+				</ul>
+				</div><!-- /.col-sm-12 -->
+			</div><!-- /.row -->
+            
+            <br/>            
+            
+            
+		</div><!-- /.container -->
+	</section>
+
+
+<!--================================================================================================-->
     <section id="organization" class="section speakers"> <!--Organization-->
 		<div class="container">
 			<div class="container"> <!--General Co-chairs-->
@@ -561,33 +733,9 @@
 		</div> <!--Container-->
 	</section>
 
-	<section id="attendees" class="section about"> <!--Participation section-->
-		<div class="container">
-			<div class="row">
-				<div class="col-sm-12">
-				<h3 class="section-title">Venue</h3>	
-				<!-- Keep the number of items in the list to a limit, jump to another HTML page when it is full -->
-				<ul class="list-arrow-right">
-					<li>Coming soon...</li>
-				</ul>
-				</div><!-- /.col-sm-12 -->
-			</div><!-- /.row -->
-			
-			<br/>
-			
-			<div class="row">
-				<div class="col-sm-12">
-				<h3 class="section-title">Getting There</h3>
-				<!-- Keep the number of items in the list to a limit, jump to another HTML page when it is full -->
-				<ul class="list-arrow-right">
-					<li>Coming soon...</li>
-				</ul>
-				</div><!-- /.col-sm-12 -->
-			</div><!-- /.row -->
-		</div><!-- /.container -->
-	</section>
 
-	<section id="registration" class="section partner"> <!--Registration-->
+<!--================================================================================================-->
+	<section id="registration" class="section partner" style="display: none"> <!--Registration-->
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
@@ -606,77 +754,9 @@
 		</div>
 	</section>
 
-	<section id="program" class="section schedule"> <!--Program section-->
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12">
-					<h3 class="section-title">Program</h3>
-				</div>
-			</div>
-			
-			<div class="row">				
-				<div class="col-sm-6">
-					<div id="myCarousel" class="carousel slide" data-ride="carousel">
-					  <!-- Indicators -->
-					  <ol class="carousel-indicators">
-						 <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-						 <li data-target="#myCarousel" data-slide-to="1"></li>
-						 <li data-target="#myCarousel" data-slide-to="2"></li>
-					  </ol>
 
-					  <!-- Wrapper for slides -->
-					  <div class="carousel-inner" role="listbox" style="width:height:250px">
-						 <div class="item active">
-							<a href="keynotes.html#keynote_bertino">
-							<img src="assets/images/backgrounds/carousel-background.jpg" style="width:800px;height:250px">
-								<div class="carousel-caption">
-									<img src="assets/images/speakers/bertino1.jpg" />
-									<p class="item-title">Keynote Speaker</p>
-									<h4>Elisa Bertino</h4>
-									<p>Purdue University</p>
-									<!--<span class="label label-default">Tuesday, 2/23, at 9 AM</span>-->
-								</div>
-							</a>
-						 </div>
-
-						 <div class="item">
-							<a href="keynotes.html#keynote_valerie">
-							<img src="assets/images/backgrounds/carousel-background.jpg" style="width:800px;height:250px">
-								<div class="carousel-caption">
-									<img src="assets/images/speakers/valerie.jpg" />
-									<p class="item-title">Keynote Speaker</p>
-									<h4>Valérie Issarny</h4>
-									<p>Inria</p>
-									<span class="label label-default">Tuesday, 2/23, at 9 AM</span>
-								</div>
-							</a>
-						 </div>
-
-						 <div class="item">
-							<a href="keynotes.html#keynote_valerie">
-							<img src="assets/images/backgrounds/carousel-background.jpg" style="width:800px;height:250px">
-								<div class="carousel-caption">
-									<img src="assets/images/speakers/valerie.jpg" />
-									<p class="item-title">Keynote Speaker</p>
-									<h4>Valérie Issarny</h4>
-									<p>Inria</p>
-									<span class="label label-default">Tuesday, 2/23, at 9 AM</span>
-								</div>
-							</a>
-						 </div>
-					  </div>
-
-
-					</div>
-				</div><!-- /.col-sm-8 -->
-				
-				<div class="col-sm-6">
-				</div>
-			</div><!-- /.row -->
-		<div><!--container-->
-	</section>
-
-	<section id="workshops" class="section schedule"> <!--Workshop section-->
+<!--================================================================================================-->
+	<section id="workshops" class="section schedule" style="display: none"> <!--Workshop section-->
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
@@ -695,6 +775,8 @@
 		</div><!--container-->
 	</section>
 
+
+<!--================================================================================================-->
 	<section id="partner" class="section partner">
         <div class="container">
             <div class="row">

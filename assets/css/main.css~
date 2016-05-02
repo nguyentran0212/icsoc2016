@@ -456,7 +456,7 @@ ul li {
  * 6.7 Section: Schedule
  */
 .partner {
-  background-color: #f8f8f8;
+  background-color: #e8e8e8;
 }
 .partner .partner-box {
   display: block;
@@ -630,12 +630,6 @@ ul li {
 }
 .carousel-control.left {
   background-image: none;
-}
-
-/* reduce arrow sizes */
-.carousel-control { width: 20px; }
-.carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right {
-  font-size:15px;
 }
 
 /* reduce indicator size, remove border */
