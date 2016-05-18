@@ -39,13 +39,13 @@
             <div class="collapse navbar-collapse" id="navbar-items">
                 <ul class="nav navbar-nav navbar-right">
                 	<!-- navigation menu -->
-               		<li class="active"><a data-scroll href="#about">About</a></li>
+               	<li class="active"><a data-scroll href="#about">About</a></li>
                 	<li><a data-scroll href="#authors">CFPs</a></li>
-			<li><a data-scroll href="#organization">Organization</a></li>
-			<li><a data-scroll href="#attendees">Participation</a></li>					
                 	<li><a data-scroll href="#program">Program</a></li>
-			<!-- <li><a data-scroll href="#workshops">Workshops</a></li> -->
-			<li><a data-scroll href="#about">Past Events</a></li> 					
+                	<li><a data-scroll href="#workshops">Workshops</a></li>
+						<li><a data-scroll href="#attendees">Participation</a></li>	
+						<li><a data-scroll href="#organization">Organization</a></li>				
+						<li><a data-scroll href="#about">Past Events</a></li> 					
                 	<li><a data-scroll href="#partner">Sponsors</a></li>   
                 </ul>
             </div>
@@ -175,16 +175,16 @@
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-yw4l">April 11, 2016<br></th>
-    <th class="tg-yw4l">Workshop proposals due<br></th>
+    <td class="tg-yw4l" style="text-decoration: line-through">April 11, 2016<br></th>
+    <td class="tg-yw4l" style="text-decoration: line-through">Workshop proposals due<br></th>
   </tr>
   <tr>
-    <td class="tg-yw4l">May 08, 2016<br></td>
-    <td class="tg-yw4l">Workshop notifications<br></td>
+    <td class="tg-yw4l" style="text-decoration: line-through">May 08, 2016<br></td>
+    <td class="tg-yw4l" style="text-decoration: line-through">Workshop notifications<br></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">May 15, 2016<br></td>
-    <td class="tg-yw4l">Abstract &amp; full papers due</td>
+    <td class="tg-yw4l" style="text-decoration: line-through">May 15, 2016<br></td>
+    <td class="tg-yw4l" style="text-decoration: line-through">Abstract &amp; full papers due</td>
   </tr>
   <tr>
     <td class="tg-yw4l">May 25, 2016<br></td>
@@ -326,6 +326,73 @@
 		<div><!--container-->
 	</section>
 
+
+<!--================================================================================================-->
+	<section id="workshops" class="section schedule"> <!--Workshops section-->
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<h3 class="section-title">Workshops</h3>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="col-md-12">
+					<p>Seven workshops will be held in conjunction with the 14th International Conference on Service Oriented Computing. The detailed information and submission instructions of each workshop can be found at the Web-site of each workshop.</p>
+				</div>
+			</div>
+			
+			<div class="row">				
+				<div class="col-md-12">
+					<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;border-top-width:1px;border-bottom-width:1px;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;border-top-width:1px;border-bottom-width:1px;}
+.tg .tg-xdyu{font-weight:bold;font-style:italic}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 859px">
+<colgroup>
+<col style="width: 570px">
+<col style="width: 289px">
+</colgroup>
+  <tr>
+    <th class="tg-xdyu">Title</th>
+    <th class="tg-xdyu">Organizers</th>
+  </tr>
+  <tr>
+    <td class="tg-031e"><a href="http://users.encs.concordia.ca/~s_yangui/ISyCC16.html">IoT Systems Provisioning &amp; Management in Cloud Computing (ISyCC)</a></td>
+    <td class="tg-031e">Sami Yangui<br>Mohamed Mohamed<br>Diala Naboulsi</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Adaptive Service-oriented and Cloud Applications</td>
+    <td class="tg-031e">Mohamed Jmaiel<br>Slim Kallel<br>Ismael Bouassida Rodriguez</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">International workshop on Management of Service-oriented,Cyber-Physical Systems (MCPS)</td>
+    <td class="tg-yw4l">Nawal Guermouche<br>Thierry Monteil</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Engineering Service-Oriented Applications (WESOA 2016)</td>
+    <td class="tg-yw4l">George Feuerlicht<br>Winfried Lamersdorf<br>Guadalupe Ortiz<br>Christian Zirpins</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">The Second International Workshop on Big Data Services and,Computational Intelligence (BSCI’16)</td>
+    <td class="tg-yw4l">Zhangbing Zhou<br>Patrick C. K. Hung<br>Yucong Duan<br>Richard Lomotey</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Research Infrastructure and Services in the Cloud (WRISC)</td>
+    <td class="tg-yw4l">Zhangbing Zhou<br>Patrick C. K. Hung<br>Yucong Duan<br>Richard Lomotey</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">3rd Workshop on Intelligent Service Clouds (ISC'16)</td>
+    <td class="tg-yw4l">Dirk Draheim<br>Alex Norta</td>
+  </tr>
+</table>
+				</div>
+			</div><!-- /.row -->
+		<div><!--container-->
+	</section>
 
 
 <!--================================================================================================-->
